@@ -1,0 +1,50 @@
+1.Retrieves all records from the student_impact table.
+2.Displays student ID with pre and post semester GPA.
+3.Filters students who use AI more than 5 hours per week.
+4.Finds students whose GPA improved after the semester.
+5.Selects students with post GPA greater than 3.88.
+6.Sorts students by AI usage hours in descending order.
+7.Retrieves top 5 students based on highest post GPA.
+8.Filters students with anxiety level above 9.
+9.Shows students who have a paid subscription.
+10.Sorts students by burnout risk level in descending order.
+11.Calculates average post GPA per major using self join.
+12.Computes total AI usage hours grouped by year of study.
+13.Calculates average pre and post GPA for each year.
+14.Counts number of high burnout students per major.
+15.Finds average skill retention score by use case.
+16.Compares average GPA between paid and free users.
+17.Calculates average exam anxiety level by year.
+18.Finds average GPA based on tool diversity.
+19.Computes average traditional study hours per major.
+20.Counts students grouped by AI dependency level.
+21.Calculates average GPA improvement based on AI usage hours.
+22.Finds average GPA under different institutional policies.
+23.Analyzes relationship between anxiety level and average GPA.
+24.Computes average AI dependency per major.
+25.Performs combined analysis of GPA and student count by major and subscription.
+26.Calculates average GPA per major using a CTE.
+27.Computes total AI usage hours per year using a CTE.
+28.Calculates GPA improvement per student using a CTE.
+29.Counts high burnout cases per major using a CTE.
+30.Finds average skill retention score per use case using a CTE.
+31.Compares GPA for paid vs free users using a CTE.
+32.Calculates average anxiety per year using a CTE.
+33.Computes average GPA based on tool diversity using a CTE.
+34.Finds average study hours per major using a CTE.
+35.Shows distribution of AI dependency counts using a CTE.
+36.Calculates GPA improvement based on AI usage using a CTE.
+37.Finds average GPA by institutional policy using a CTE.
+38.Analyzes anxiety vs GPA using a CTE.
+39.Computes AI dependency per major using a CTE.
+40.Performs combined aggregation of GPA and burnout count using CTEs.
+41.Ranks students globally based on post GPA.
+42.Ranks students within each major by GPA.
+43.Assigns dense rank based on AI usage hours.
+44.Calculates running total of AI usage per year.
+45.Computes moving average GPA within each year.
+46.Calculates difference of each student’s GPA from their major’s average.
+47.Calculates average anxiety per year using a repeated CTE.
+48.Computes average GPA by tool diversity using a repeated CTE.
+49.Finds average study hours per major using a repeated CTE.
+50.Shows distribution of AI dependency using a repeated CTE.
